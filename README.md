@@ -1,5 +1,9 @@
 # SHORT STORY ASSIGNMENT CMPE255
 
+Data and text mining : 
+BioCaster in 2021: automatic disease outbreaks detection from global news media
+
+
 Medium article :
 
 
